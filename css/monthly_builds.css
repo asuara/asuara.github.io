@@ -77,7 +77,6 @@ p {
   background-color: rgba(54, 64, 200, 0.35);
   border-radius: 3px;
   margin: 25px 10px 25px 10px;
-  padding: auto;
   display: inline-grid;
   grid-template-columns: 1fr;
 }
